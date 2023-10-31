@@ -1,0 +1,29 @@
+What is a server:
+
+A server is a specialized computer or software system designed to provide services, resources, or data to other computers or devices, often referred to as clients, over a network. Servers play a crucial role in the functioning of computer networks and the internet.
+
+What is the role of the domain name system:
+The Domain Name System is request to find the IP address
+An "A record" (short for Address record) in the context of DNS (Domain Name System) is a type of DNS record that maps a domain name to an IPv4 address. It associates a domain name like "www.foobar.com" with an IPv4 address like "192.168.1.1," allowing computers to find and communicate with the web server associated with that domain.
+
+What is the role of the web server
+web server is to respond to requests from clients, such as web browsers, by providing the requested web content, whether static web pages or dynamic content generated in real time.
+
+What is the role of the application server
+
+The application server is responsible for executing business logic, managing data and handling dynamic requests within a web application, ensuring its operation and performance.
+
+What is the role of the database
+
+The role of a database is to store, manage and provide efficient access to structured data, ensuring its integrity and security, and facilitating its retrieval and manipulation.
+
+
+What is the server using to communicate with the computer of the user requesting the website
+
+The server typically uses the HTTP (Hypertext Transfer Protocol) to communicate with the user's computer when the user requests a website. HTTP is the foundation of data communication on the World Wide Web, and it governs the format of messages between the web server and the user's browser, allowing for the transfer of web pages, text, images, and other resources.
+
+
+
+
+
+https://github.com/letihab/holbertonschool-system_engineering-devops/blob/main/Diagramme%20sans%20nom.jpg
